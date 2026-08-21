@@ -9,7 +9,7 @@ for(i=1;i<n;i++)
 if(arr[i]>max)
 {
 max=arr[i];
-printf("%d",i);
+printf("%d",max);
 }
 }
 return 0;
